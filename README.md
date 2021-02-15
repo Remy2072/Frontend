@@ -1,4 +1,6 @@
-# Object properties uitvoeren
+# Front-end development
 
-Een training bij FRO in de module F2M3 Duurzaam Huis
-Link naar live versie: (<https://30528.hosts1.ma-cloud.nl/opdracht-1/index.html>)
+Dit zijn de opdrachten van Frontend
+* [Opdracht 1 - Objecten](<https://30528.hosts1.ma-cloud.nl/opdracht-1/index.html>)
+* [Opdracht 2 - JSON](<https://30528.hosts1.ma-cloud.nl/opdracht-2/index.html>)
+--- 
